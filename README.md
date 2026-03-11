@@ -1,5 +1,9 @@
 # Azure Virtual Machine Backup & Restore Guide
 
+## Youtube
+
+https://www.youtube.com/watch?v=AtqmWyJ-oiU
+
 ## Overview
 
 This guide covers how to back up virtual machines on the Azure platform, collect system state information, restore VMs from backups, and cleanly remove all related resources. Two VMs are used throughout: a **master machine** (record-keeping) and a **client machine** (the machine being backed up and restored).
