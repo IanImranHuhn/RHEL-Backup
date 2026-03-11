@@ -12,7 +12,7 @@ This guide covers how to back up virtual machines on the Azure platform, collect
 
 ## Prerequisites
 
-- An active Azure account with CLI access
+- An active Azure account
 - Sufficient permissions to create resource groups, VMs, storage accounts, and Recovery Services Vaults
 
 ---
